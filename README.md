@@ -14,9 +14,10 @@ With a gps and a rotation sensor it is possible to calculate the most efficient 
   Wire
 
   Development/hardware environment specifics:
-  Arduino IDE 1.8.5
-  ATGM336H GPS  
-  Arduino Uno
+  Arduino IDE 1.8.5;
+  ATGM336H GPS;  
+  Arduino Uno;
+  Python 3.7.4;
 ******************************************************************************/
 
 In this file all the code that is used for this prototype is attached. The
